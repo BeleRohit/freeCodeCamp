@@ -35,10 +35,6 @@ To run the project files and reproduce the analysis, ensure that you have the fo
 
 Please refer to the individual project's README file for specific instructions on dependencies and installation.
 
-## License
-
-The projects in this repository are licensed under the [MIT License](LICENSE). You are free to modify, distribute, and use the code for educational and personal purposes.
-
 ## Acknowledgments
 
 I would like to express my gratitude to the creators of the Data Analysis with Python course for providing the opportunity to enhance my data analysis skills using Python.
